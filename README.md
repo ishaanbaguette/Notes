@@ -1,6 +1,6 @@
 # Notes
 
-My notes.
+A collection of notes for ITCY
 
 ---
 
