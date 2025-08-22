@@ -117,7 +117,7 @@ Input → Storage → CPU → Output
 
 ---
 
-## CPU Parts
+### CPU Parts
 
 Its main components are:
 
