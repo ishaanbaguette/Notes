@@ -4,9 +4,9 @@ My notes for C
 
 ---
 
-## 📑 Index
+## Index
 
-### 🔹 Operators
+### Operators
 - [Operators](Operators.md)
 
 ---
