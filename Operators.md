@@ -5,7 +5,18 @@
 ---
 
 ## Topics Covered
-- Operators  
+- [Arithmetic Operators](#arithmetic-operators)  
+- [Logical Operators](#logical-operators)  
+- [Relational Operators](#relational-operators)  
+- [Assignment Operators](#assignment-operators)  
+- [Bitwise Operators](#bitwise-operators)  
+- [Bit Shifts](#bit-shifts)  
+- [Conditional (Ternary) Operator](#conditional-ternary-operator)  
+- [Comma Operator](#comma-operator)  
+- [Precedence](#precedence)  
+- [TLDR](#tldr)  
+- [Useful Stuff](#useful-stuff)  
+
 
 ---
 
@@ -15,7 +26,8 @@
 - Relational  
 - Assignment  
 - Bitwise  
-- Conditional (Ternary)  
+- Conditional (Ternary)
+- Comma operator
 
 ---
 
