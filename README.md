@@ -24,7 +24,6 @@ A collection of notes for ITCY
   - [Translators & Program Execution](/CO101/basics.md#translators--program-execution)
   - [Programming Paradigms](/CO101/basics.md#programming-paradigms)
   - [Basic Computer Design](/CO101/basics.md#basic-computer-design)
-  - [CPU Parts](/CO101/basics.md#cpu-parts)
 
 - [C](/CO101/C/C.md)
   - [Operators](/CO101/C/operators.md)
