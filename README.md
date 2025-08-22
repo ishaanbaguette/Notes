@@ -13,10 +13,10 @@ My notes.
 
 ---
 
-## 📑 Index
+## Index
 
 ### CO101 – Programming Fundamentals
-- [Operators](Operators.md)
+- [Operators](/CO101/Operators.md)
 
 ---
 
